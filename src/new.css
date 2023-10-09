@@ -33,8 +33,8 @@
 .bioContainer {
   background-color: rgba(56, 202, 255, 0.227);
   padding: 40px;
-  width: 100%;
-  /* margin-left: 250px; */
+  width: 1200px;
+  margin-left: 75px;
   margin-top: 150px;
 }
 
@@ -56,4 +56,63 @@
 
 .productsBox {
   margin-left: 100px;
+}
+
+.legalDiv {
+  width: 1000px;
+  margin: 180px;
+  margin-top: 100px;
+  background-color: rgba(128, 128, 128, 0.17);
+  padding: 50px;
+}
+
+.userName {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.userEmail {
+  font-size: 20px;
+}
+
+.userInfoDiv {
+  background-color: rgba(128, 128, 128, 0.169);
+  padding: 50px;
+}
+
+.userInfo {
+  font-size: 20px;
+}
+
+.navBar {
+  padding: 20px;
+  font-size: 30px;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  color: black;
+}
+
+.navBar:visted {
+  color: black;
+}
+
+#nav-list {
+  margin-top: 25px;
+}
+
+.button {
+  padding: 20px;
+}
+
+.calculator {
+  margin: 120px;
+}
+
+.welcomeCalc {
+  color: rgb(86, 149, 245);
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 150px;
 }
